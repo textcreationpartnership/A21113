@@ -1,0 +1,681 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegia Dauidis Echlini Medici Reginæ. In funere charissimæ castissimæq[ue] coniugis Philibertæ Loubatæ, quæ nata Roanæ ad Ligerim obijt Londini, anno ætatos siæ 40. Domini 1629. die 8. Ianuarii. Ad Carolum Magnæ Britanniæ, Franciæ, &amp; Hiberniæ regem. Nunquid est dolor sicut dolor meus?</title>
+            <author>Echlin, David.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21113</idno>
+            <idno type="STC">STC 7478</idno>
+            <idno type="STC">ESTC S113965</idno>
+            <idno type="EEBO-CITATION">99849193</idno>
+            <idno type="PROQUEST">99849193</idno>
+            <idno type="VID">14331</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 782:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elegia Dauidis Echlini Medici Reginæ. In funere charissimæ castissimæq[ue] coniugis Philibertæ Loubatæ, quæ nata Roanæ ad Ligerim obijt Londini, anno ætatos siæ 40. Domini 1629. die 8. Ianuarii. Ad Carolum Magnæ Britanniæ, Franciæ, &amp; Hiberniæ regem. Nunquid est dolor sicut dolor meus?</title>
+                  <author>Echlin, David.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>A. M[athewes],</publisher>
+                  <pubPlace>Excudebat Londinensis :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Loubata, Philiberta, 1588 or 9-1629.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14331:1"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:14331:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <p>ELEGIA Dauidis Echlini, <hi>Medici Reginae.</hi>
+            </p>
+            <p>In funere Chariſsimae caſtiſsimae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> coniugis <hi>Philibertae Loubatae,</hi>
+            </p>
+            <p>Quae nata <hi>Roanae</hi> ad Ligerim obijt Lon<g ref="char:EOLhyphen"/>dini, anno aetatis ſuae 40. Domini 1629. die 8. <hi>IANVARII.</hi>
+            </p>
+            <p>AD CAROLVM Magnae Britanniae, Franciae, &amp; Hiberniae Regem.</p>
+            <q>Nunquid eſt dolor ſicut dolor meus?</q>
+            <p>Excudebat Londinenſis <hi>A. M.</hi> 1629.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:14331:2"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:14331:2"/>
+            <!-- PDF PAGE 51 -->
+            <head>Sereniſsimo Potentiſsimo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Principi CAROLO, Magnae Britanniae, Franciae, &amp; Hiberniae REGI.</head>
+            <p>
+               <hi>REx Inuictiſſime, Britannice Monarcha,</hi> Elegi iſti Tuae Maieſtatis pedibus humillimè ſeſe aduolutare audent, par<g ref="char:EOLhyphen"/>tim vt ſplendor tui Nominis ter Auguſtus, qui meus eſt in colenda defuncta zelus &amp; ambitio, funebrem hanc pompam du<g ref="char:EOLhyphen"/>cat; partim vt de beneficìo nuper accepto gratiſſimi in <hi>T. M.</hi> ani<g ref="char:EOLhyphen"/>mi, non ſolùm huic ſaeculo, ſed etiam apud poſteros teſtimonium ſi fieri poteſt relinquam quale cunque. Perfeciſti tandem vt ſomnium illud non iam ſomnium ſed veram Diuinationem fuiſſe planè con<g ref="char:EOLhyphen"/>ſtet Matris Muſarum, vtq, in te reuiuixerit mihi Rex Pater; &amp; prohibuiſti ne iuſtiſſimus grauiſſimuſq, dolor alterum etiam pedem in cymbam det breuì Eadem<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> opera cauiſti prouidus, cum olim poſteritas tuam erga alios nationis meae &amp; profeſſionis Re<g ref="char:EOLhyphen"/>giam illam beneficentiam animo verſabit ſuo, ne quis quod fortaſ<g ref="char:EOLhyphen"/>ſis metuendum erat tacitè ſubmurmuret, et cur nihil miſello Echlino? Vnum tibì perſuade, oro <hi>M. T.</hi> verbis quantùm poſ<g ref="char:EOLhyphen"/>ſum humillimis, vtcun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> inter omnes meritorum ordine poſtremas teneam, gratioris tamen animi quibus potero in ſempiternum mo<g ref="char:EOLhyphen"/>nimentis ceſſurum profectò nemini. Ita tibi Deus inter caetera om<g ref="char:EOLhyphen"/>nia proſpera <hi>Henricam</hi> tuam <hi>Mariam</hi> cum Regia Progenie in multos annos ſanam ſaluam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> conſeruet. Ac mihi certè hactenus cum bono illo Patriarcha nunquam te dimittere animus erat, do<g ref="char:EOLhyphen"/>nec tu, quod tam benigna animi alacritate iam praeſtitiſti, cum bo<g ref="char:EOLhyphen"/>no tuo Angelo benediceres.</p>
+            <closer>
+               <signed>
+                  <hi>Tuae Maieſtati Deuotiſsimum addictiſsimum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mancipium, DAVID ECHLINVS</hi> moerens lugenſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:14331:3"/>
+            <!-- PDF PAGE 52 -->
+            <head>TETRASTICHON ad Regem.</head>
+            <l>Accipe lugubri lachrimantem in veſte libellum,</l>
+            <l>Et domini facilis Rex miſerere ſui.</l>
+            <l>Non ego te mecum lachrimari, O Summe Monarcha,</l>
+            <l>Sed volo te lachrimas hic cohibere meas.</l>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb n="1" facs="tcp:14331:3"/>
+            <!-- PDF PAGE 52 -->
+            <head>ELEGIA Dauidis Echlini.</head>
+            <l>ERgòne languebo iuueni tibi chara ſuperſtes</l>
+            <l>Heu mea decrepitus iam <hi>Philiberta</hi> ſenex?</l>
+            <l>Scilicet hoc noſtris deerat modò cladibus vnum,</l>
+            <l>Vt tua proh! mortem mors foret ante meam;</l>
+            <l>Et qui debueram prior emigraſſe, ſepulchro</l>
+            <l>Fleta ego defunctae coniugis oſſa darem.</l>
+            <l>Quid grauius deinceps poterunt mihi fata minari?</l>
+            <l>Non habet in nobis iam noua plaga locum.</l>
+            <l>Poſt mille aerumnas ſubijt morboſa ſenectus,</l>
+            <l>Ipſa &amp; mille nouis concomitata malis:</l>
+            <l>Ac niſi <hi>Magnanimi</hi> fauiſſet dextera <hi>CARLI,</hi>
+            </l>
+            <l>Fortunae exemplum nobile flerer ego<g ref="char:punc">▪</g>
+            </l>
+            <l>Occidit heu! actum eſt, actum eſt heu! occìdit illa,</l>
+            <l>Vnica proh! ſenij ſpes columen<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> mei;</l>
+            <l>Trans mare per terras quae me ſine fine ſecuta</l>
+            <l>Fida fuit longae cura comeſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> viae.</l>
+            <l>Illa ſuae licta patriae dulcedine, mecum</l>
+            <l>In peregrinum huc eſt auſa venire ſolum:</l>
+            <l>Nec Patris heu chari lachrimae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> preceſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> parentum</l>
+            <l>Vellere ab amplexu tunc valuere meo.</l>
+            <l>Nempe ſupra ſexum fuit illi &amp; maſcula virtus,</l>
+            <l>In<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſuum affectus rarus amor<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> virum.</l>
+            <l>Luſtra ſuae nondum aetatis compleuer at octo,</l>
+            <l>Et iuuenem paſſu mors properante rapit.</l>
+            <l>Heu! procul a patria peregrinis conditum in oris</l>
+            <l>Foemineum ſepelit terra Britanna decus:</l>
+            <l>Quatuor &amp; ſuprà nobis exacta in honeſto</l>
+            <l>Luſtra toro totidem non niſi viſa dies.</l>
+            <l>
+               <pb n="2" facs="tcp:14331:4"/>
+               <!-- PDF PAGE 53 -->
+Illa mihi nunquam bilem commouit, et vnquam</l>
+            <l>Si mouit, certè perbreuis illa fuit.</l>
+            <l>Conſilium in dubijs, conſolatrix in egenis,</l>
+            <l>Rebus in anguſtis anchora ſacra mihi.</l>
+            <l>Turba<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> morborum nimis importuna meorum,</l>
+            <l>Peruigiles noctes peruigileſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> dies,</l>
+            <l>Clamores horrendi, vicin ſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> moleſti</l>
+            <l>Taedia conſorti nulla dedere meae.</l>
+            <l>Immo quò mage mî cruciatus inualuere,</l>
+            <l>Tantò illa aſsidua &amp; fida miniſtra magis.</l>
+            <l>An nata, an coniunx, an mater plus pia lis eſt:</l>
+            <l>Pulchrior an probior forma pudor<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> negant.</l>
+            <l>Altera &amp; illa Venus fuit, altera &amp; illa Diana,</l>
+            <l>Altera mî nec non illa Minerua fuit.</l>
+            <l>Illa mihi morum, pietatis &amp; illa Magiſtra:</l>
+            <l>Profuit exemplum ſi malè, culpa mea eſt.</l>
+            <l>Numinis ecqua fuit Sancti reuerentior vnquam?</l>
+            <l>Ecqua vnquam Summo vota preceſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Deo</l>
+            <l>Pectore plus puro fudit nocteſque dieſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>?</l>
+            <l>Dixiſſes animam in corpore coelicolam.</l>
+            <l>Nunquam illa inſtratae viſa eſt accumbere menſae,</l>
+            <l>Seu lactans, vtero ſeu grauiore gerens,</l>
+            <l>Non ſi lactaret geſtaretue illa gemellos,</l>
+            <l>Ieiuna ad medios vlteriuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> dies,</l>
+            <l>Quin genibus flexis, manibuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> oculiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> leuatis,</l>
+            <l>Supplice ſecretas diceret ore preces,</l>
+            <l>Clam digreſſa domus ſine teſtibus in penetrale:</l>
+            <l>Mos erat in tacito ſoluere vota loco.</l>
+            <l>Immo vera loquor, mihi Gallia &amp; Anglia teſtis,</l>
+            <l>Vna illi toto menſula ſaepe die,</l>
+            <l>Vnicus O mirum! quis credat? paſtus &amp; ille</l>
+            <l>Sobrius; haud ſolo pane repletur homo.</l>
+            <l>
+               <pb n="3" facs="tcp:14331:4"/>
+               <!-- PDF PAGE 53 -->
+(Hinc obiter duo me diſcant matres monitore,</l>
+            <l>Quae mea liberior Muſa tacere nequit,</l>
+            <l>Et proprios diſtenta admittere ad vbera foetus</l>
+            <l>Hir caniſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> dehinc cedere nolle feris,</l>
+            <l>Nec lactis ſpecie grauidi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> a pondere ventris</l>
+            <l>Indulgere ſuo plus quàm opus eſt genio.)</l>
+            <l>Munditiae in cultu, lauti<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> modeſtia victus,</l>
+            <l>Et morum integritas non habuere parem.</l>
+            <l>Singula quid memorem? Siculi prius aequoris vndas</l>
+            <l>Quis numeret, laudes quàm <hi>Philiberta</hi> tuas.</l>
+            <l>Quò magis hìc animo proh! ſerò tangòr &amp; angor</l>
+            <l>Virtuti ſortem non cecidiſſé ſuam;</l>
+            <l>Quod<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> minùs licuit meritis pro talibus vti</l>
+            <l>Foeminei dignè flore &amp; honore chori.</l>
+            <l>Quanquam rara tot &amp; tantis ſors dotibus aequa:</l>
+            <l>Debuerat coniunx Principis eſſé viri.</l>
+            <l>Vnus me cruciat ſcrupulus, triſtem<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vt Oreſtem</l>
+            <l>Terrificat ſpectris dira Megaera tetris,</l>
+            <l>Quòd primi introitus, longi &amp; primordia morbi</l>
+            <l>Neglecta hìc culpa praeteriere mea.</l>
+            <l>O ſcelus! O facinus! Quiſnam Aeacus aut Rhadamantus</l>
+            <l>Mî ſatis in poenas ingenioſus erit?</l>
+            <l>Ipſe meis manibus iugulaui homicida meum cor:</l>
+            <l>Impie quid dubitas impie Echline mori?</l>
+            <l>An tuus obſcuras procul hinc amor ibit ad vmbras?</l>
+            <l>Tu ſceleris tanti cauſa ſuperſtes eris?</l>
+            <l>Cur ego prodij in hanc lucem matrice recluſá?</l>
+            <l>Cur non natalem mors fuit ante diem?</l>
+            <l>Cur rudis olim maſſa, informis &amp; embryo coecis</l>
+            <l>Non perij in clauſtris laetus aborſus ego?</l>
+            <l>Aut cur non hauſtam expiraui protinus auram,</l>
+            <l>Praeueniens vitae has tunc breuitate cruces?</l>
+            <l>
+               <pb n="4" facs="tcp:14331:5"/>
+               <!-- PDF PAGE 54 -->
+Cum mihi veſicam ſecuit Molinus apertum</l>
+            <l>Cur non huic animae vulnere fecit iter?</l>
+            <l>Cur non viſceribus perruptis funditus imum</l>
+            <l>Intrepidus ferrum merſit ad vſque iecur?</l>
+            <l>Cur ego ludibrium caelorum et ſortis iniquae?</l>
+            <l>Proh dolor! an dolor eſt vt dolor iſte meus?</l>
+            <l>Molinus putridam violauit non niſi carnem:</l>
+            <l>Heu animam gladius transfodit iſte meam.</l>
+            <l>Flete meam doctae aerumnam pia turba Sorores:</l>
+            <l>Mnemoſyne hìc Natas fac lachrimare tuas.</l>
+            <l>Tu<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> adeò mî Aitone meum fle in funere funus:</l>
+            <l>Echlini defle cor<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> animum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tui.</l>
+            <l>Tete inter primos meritò numerabat amicos:</l>
+            <l>Te mihi charum habuit, te <hi>Philiberta</hi> ſibi:</l>
+            <l>Et ſaxa et rupes monteſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> &amp; flumina fontes</l>
+            <l>Et ſiluae, &amp; viduum compita flete torum:</l>
+            <l>Gaudia ſint procul hinc, procul omnis abeſto voluptas:</l>
+            <l>Quae vitam haec lachrimas finiet hora meas.</l>
+            <l>Quandó erit ô tandem cum rupto ſtamine Parca</l>
+            <l>Vnà iſtis vnum ponet vtriſque modum?</l>
+            <l>Poenitet heu lucis, vitae me taedet, &amp; illum</l>
+            <l>Qui mihi det requiem feruidus opto diem.</l>
+            <l>Eheu! quid dixi? miſero mihi quinque ſuperſunt</l>
+            <l>Pignora, pars maior paruula, tum gemini</l>
+            <l>In cunis, omnes orbi fere utroque parente:</l>
+            <l>Namque egoiam deinceps quid niſi nullus homo?</l>
+            <l>Fata viam inuenere, fauet<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> hîc dextera <hi>CARLI,</hi>
+            </l>
+            <l>Et Pater in Nato fert rediuivus opem.</l>
+            <l>Nam Pater Aethereus quae procreat omnia nutrit:</l>
+            <l>Cum Nato promptus naſcitur ore cibus.</l>
+            <l>Tum quem tam Sancto mater cultu venerata eſt</l>
+            <l>Non ſinet is ſobolem languida obire fame.</l>
+            <l>
+               <pb n="5" facs="tcp:14331:5"/>
+               <!-- PDF PAGE 54 -->
+Faxit vt O mores referant genitricis, amor<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>
+            </l>
+            <l>Et Domini timor huic ſint rudimenta gregi.</l>
+            <l>Sed valeat proles, ad matrem Muſa recurre:</l>
+            <l>Ante oculos mater it<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> redit<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> meos,</l>
+            <l>Quam quoties video (video noctu<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> die<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>)</l>
+            <l>Irrigua in madidas defluit vnda genas.</l>
+            <l>Siqua tamen tantus recipit ſolatia luctus,</l>
+            <l>Solare hîc viduum qua potes arte ſenem</l>
+            <l>Laetior, &amp; pexis pro forma vtcunque capillis</l>
+            <l>Moeſtos pauliſper rumpe Elegia modos.</l>
+            <l>Non ſatis eſt noſtra hìc priuatim incommoda flere:</l>
+            <l>Alterius praefert commoda verus amor.</l>
+            <l>Gratulor vxori quòd mors licet hei mihi! acerba</l>
+            <l>Non paſſa eſt miſeri funera flere viri,</l>
+            <l>Oſcula non dederit lachrimantia, non mihiocellos</l>
+            <l>Clauſerit, hoc corpus non cumularit humo,</l>
+            <l>Funebre non carmen, non foemineos vlulatus,</l>
+            <l>Non planctus, moeſtos audieritue ſonos.</l>
+            <l>Singula nam vix haec ſpectacula ſana tuliſſet</l>
+            <l>Impatiens ſexus impatientis amor.</l>
+            <l>Qua<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> erat illa in me pietate affecta, dediſſet</l>
+            <l>Viua meis mecum membra cremanda rogis.</l>
+            <l>Quanquam me illa mori tum vidit frigida, cumſpes</l>
+            <l>Nulla mihi vitae, nulla ſalutis erat.</l>
+            <l>Mox ego tam placidum grator ſuper omnia finem,</l>
+            <l>Morte quidem vitae conueniente ſuae.</l>
+            <l>Ac quae tam rectè totum tranſegerat aevum,</l>
+            <l>Conformi potuit non niſi morte mori.</l>
+            <l>Non illi diſtorti oculi, convulſaue labra,</l>
+            <l>Et decor ille oris qui fuit ante manet.</l>
+            <l>Anxia non hoſti iactabat membra reluctans;</l>
+            <l>Laeta dedit victas illa libenſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> manus</l>
+            <l>
+               <pb n="6" facs="tcp:14331:6"/>
+               <!-- PDF PAGE 55 -->
+Coeligenam expirans animam. Deus almus vtrumque</l>
+            <l>Et vitam &amp; mortem det mihi quaeſo parem.</l>
+            <l>Sed leuia iſta; illud mirandum et Numine plenum,</l>
+            <l>Ac Genij afflatu iam propiore boni.</l>
+            <l>Nox erat, increſcit morbus, vireſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> fatiſcunt,</l>
+            <l>Nec dormire illi nec vigilare licet,</l>
+            <l>Mente parum conſtat, ſermo &amp; reſponſa aliena,</l>
+            <l>Nulla quies, vllo plus mora nulla loco,</l>
+            <l>Vox titubat, fiunt planè omnia deteriora,</l>
+            <l>Deſperata ſalus, mors premit ante fores,</l>
+            <l>Cum ſubitò redit ad ſeſe, mirabile dictu,</l>
+            <l>Priſtina mens, &amp; vox priſtina, ſermo prior.</l>
+            <l>Vade, accerſe meum, mora nulla, ancilla maritum,</l>
+            <l>Nox, ait, haec finem curre recurre dabit;</l>
+            <l>Vix locus, en abeo, vocat hora, &amp; tempus inani</l>
+            <l>Dicere nunc mundo, dixit vt ille, vale.</l>
+            <l>Non ego dehinc ſomnos longi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> moleſtia morbi</l>
+            <l>Eripiet vobis eripietue mihi.</l>
+            <l>Qui moneat diuina iubetur adeſſe vocatus</l>
+            <l>Et fieri pro anima ſacra ſuprema ſua,</l>
+            <l>Illa quibus deuoto aſsiſtit pectore &amp; ore</l>
+            <l>Peccata enumerans his veniam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> petens.</l>
+            <l>Hoc ego iam ex animo non gratuler? vt magis illud</l>
+            <l>Libera quòd cunctis ſollicitudinibus</l>
+            <l>Vitam agitat meliore ſui ſuper aethera parte</l>
+            <l>Foelix, &amp; Summo non procul inde Deo;</l>
+            <l>Donec corporeas faeces purgauerit ignis</l>
+            <l>Vltimus, &amp; tota hinc ſcandet ad aſtra ſimul.</l>
+            <l>Adde quod &amp; partus vixdum ſemeſtris in auras</l>
+            <l>Enatus paucis ante diebus erat,</l>
+            <l>Quum priùs ex quo aegroto affixa puerpera lecto,</l>
+            <l>Impleſſet vicibus cornua luna tribus:</l>
+            <l>
+               <pb n="7" facs="tcp:14331:6"/>
+               <!-- PDF PAGE 55 -->
+Attamen O mirum! permiſſu Numinis ipſe</l>
+            <l>Luſtrali ante obitum rite lauatus aqua eſt.</l>
+            <l>Nunquid &amp; hoc etiam bene gratuler? ilicet infans</l>
+            <l>Praecurſor matri laeue parauit iter.</l>
+            <l>Paruule Maurici mater <hi>Philiberta</hi> beati:</l>
+            <l>Vixiſtis ſimul hic, viuite &amp; vſque ſimul.</l>
+            <l>Vos ambo ſimul hìc &amp; in Aede jacetis eadem:</l>
+            <l>Et ſuprà vobis vna eadem<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> domus.</l>
+            <l>Gratulor vxori, mihi gaudeo quòd ſimul ambo</l>
+            <l>Olim erimus Solymae ciuis vterque Sacrae.</l>
+            <l>Quod precor vt citò, ſed gemini ſine matre reclamant,</l>
+            <l>Nec licet iniuſſu caſtra mouere Ducis.</l>
+            <l>Iam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> nimis gauiſum. Elegia hic ſparge capillos,</l>
+            <l>Moeſta<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> lugubrem denuo ſume togam.</l>
+            <l>Non bene conueniunt vnquam ſimul ignis &amp; vnda,</l>
+            <l>Gaudia corrumpit ſumma leuiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> dolor.</l>
+            <l>Ergo mî in amplexus ter chara pudica<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> coniunx</l>
+            <l>Proh dolor! huc nulla poſt reditura die eſt?</l>
+            <l>O vtinam ſemel hìc pauca in momenta liceret,</l>
+            <l>Eius conſpectu colloquio<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> frui;</l>
+            <l>Vt ſaltem facie ad faciem delicta fateri</l>
+            <l>Et veniam triſti voce rogare queam.</l>
+            <l>Sed reditus clauſus: Peccaui in té<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> &amp; Olympum;</l>
+            <l>ô <hi>Philiberta</hi> rei tu miſerere viri:</l>
+            <l>Poena mî erunt fletus, luctus, planctus, lachrymae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>
+            </l>
+            <l>Et vidui ſolo hinc turturis ore gemam.</l>
+            <l>Tum crebra abſenti libabo tibi oſcula caſtus:</l>
+            <l>Te veniente die te fugiente colam.</l>
+            <l>Quaque patet campis Mauortia Gallia amoenis,</l>
+            <l>Quà Rhodanus rapidas in mare voluit aquas,</l>
+            <l>Ad Ligeris caput haec relegentur &amp; arua <hi>Roanae,</hi>
+            </l>
+            <l>Notum erit &amp; toto nomen in orbe tuum.</l>
+            <l>
+               <pb n="8" facs="tcp:14331:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 56 -->
+Eſt aliquid coniunx vel pauperis eſſé poetae:</l>
+            <l>Caetera depereunt, gloria ſola manet.</l>
+            <l>Ac quae tam facilis mî indulſit carmina ſemper</l>
+            <l>Noluit exequijs Muſa deeſſe tuis.</l>
+            <l>Hei mihi vt aerumnae quòd non mî &amp; lactea vena eſt</l>
+            <l>Illius in Getica qui jacet exul humo.</l>
+            <l>Laudis vecta alis clara inter Lumina Mundi</l>
+            <l>Deſpiceres terras Sidus ab axe novum:</l>
+            <l>Et ſeges antiquum tu inſcripta Herois in album</l>
+            <l>Venturis ſerò vatibus ampla fores</l>
+            <l>Echlini <hi>Philiberta,</hi> tui Primaria ſexus,</l>
+            <l>Fida tuo quondam Penelopca viro.</l>
+            <l>Interea gaude tibi quòd, quae gloria ſumma,</l>
+            <l>
+               <hi>CAROLVS</hi> inferijs praefuit ipſe tuis:</l>
+            <l>Tu mea, noſtrarum niſi forte obliuior rerum eſt,</l>
+            <l>Scis bene quos habeat bibliotheca libros:</l>
+            <l>Quae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> inter rixas puerorum ſcripta profundo</l>
+            <l>Excuſent Manes qualiacunque pij.</l>
+            <l>Quà tamen hîc potero, meaſi modò carmina viuent,</l>
+            <l>Carminibus viues tu <hi>Philiberta</hi> meis.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
